@@ -83,5 +83,5 @@ def main():
     except:
         print("pass")
         pass
-for _ in range(100):
+while True:
     main()
